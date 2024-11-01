@@ -8,6 +8,8 @@ import java.util.Scanner;
 
 public class Program {
     @SuppressWarnings("ConvertToTryWithResources")
+
+    //This is the main function for the program, and contains the game's menu loop
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int choice = 0;
