@@ -4,7 +4,7 @@ This is a number guessing game written in Java. It selects a number from 1-100 a
 
 The purpose for this software is to provide an example of how Java can be used in programming games. It uses one class and several functions to run the game, and shows how Java can: take input from the user, use that input within the program, and read/write information to files. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/On3V4utHmb8)
 
 # Development Environment
 
